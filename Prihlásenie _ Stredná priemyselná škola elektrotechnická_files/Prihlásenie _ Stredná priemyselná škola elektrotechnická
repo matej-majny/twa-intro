@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<!-- saved from url=(0034)https://spse-po.edupage.org/login/ -->
+<html class="not-ie no-js " lang="sk" data-lang="sk" data-edupage="spse-po"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">				
+						
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="https://spse-po.edupage.org/rss/news">
+		<link rel="shortcut icon" href="https://spse-po.edupage.org/global/pics/favicon.ico">
+		<title>Prihlásenie | Stredná priemyselná škola elektrotechnická</title>		
+										
+				<!-- @edupage32  spse-po-->
+				
+				<link rel="stylesheet" href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/font-awesome.min.css">
+				<link rel="stylesheet" type="text/css" href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/jquery-ui-1.14.2.css">
+				<link rel="stylesheet" type="text/css" href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/edupageDefault.css">	
+											
+				<script type="text/javascript" src="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/jquery-3.7.1.min.js.stiahnuť"></script>							
+			<script type="text/javascript" src="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/jquery-migrate-3.5.0.min.js.stiahnuť"></script>
+			<script>jQuery.uiBackCompat = true;</script>
+							<script type="text/javascript" src="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/jquery-ui-1.14.2.min.js.stiahnuť"></script>					<script type="text/javascript" src="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/lang_sk.js.stiahnuť"></script>
+					
+				<script src="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/edubarUtils.js.stiahnuť" type="text/javascript"></script>	
+										
+						<meta name="viewport" content="width=device-width">
+		<meta name="referrer" content="origin">
+		<link rel="stylesheet" href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/layoutDefault.css"><link rel="stylesheet" href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/login.css" id="cssFor_login"><link rel="stylesheet" href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/skin.css" id="cssFor_skin"><style type="text/css" id="mainCssStyle">
+				</style>
+		
+		<script type="text/javascript" src="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/skinResponsiveScripts.js.stiahnuť"></script><link href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/font.css" type="text/css" rel="stylesheet"><link href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/font(1).css" type="text/css" rel="stylesheet">		<style type="text/css">
+			.g_skincolors .asc-dt th, .g_skincolors .asc-dt th a {
+				background-color: #2490d0;
+				color: #222222;
+			}
+			.g_skincolors .asc-dt table tr.rec:nth-child(even) {
+				background-color: #ebf7ff;
+				color: #111111;
+			}
+			
+			.g_skincolors .asc-dt table tr.rec:nth-child(odd) {
+				background-color: #d7f0ff;
+				color: #111111;
+			}
+			.g_skincolors table.asc-timetable caption {
+				color: #111111;
+			}
+		</style>
+		<link rel="stylesheet" type="text/css" href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/asc.css"><link rel="stylesheet" type="text/css" href="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/agenda.css">		<script type="text/javascript">
+		if (!String.prototype.includes) {
+			document.write('<script type="text/javascript" src="/asc/pics/old-browser-polyfill.js?dummy=d6dcf3"><'+'/script>');
+		}
+		var ASC=ASC||{};ASC.req_props={"edupage":"spse-po","lang":"sk","school_name":"Stredná priemyselná škola elektrotechnická","school_country":"sk","school_state":"","schoolyear_turnover":"09-01","year_auto":2026,"year_auto_date":"2026-10-01",
+"custom_turnover":[],"firstDayOfWeek":1,
+"weekendDays":[0,
+6],"timezone":"Europe/Bratislava","sort_name_col":"LSF",
+"dtFormats":{"date":"dd.mm.yy","time":"24"},"jsmodulemode":"bundled","loggedUser":"",
+"loggedUserRights":[]};ASC.bundle_v="98d93f";ASC.edupage="spse-po";
+ASC.server="edupage32";
+ASC.school_name="Stredná priemyselná škola elektrotechnická";
+ASC.lang="sk";
+ASC.school_country="sk";
+ASC.schoolyear_turnover="09-01";
+ASC.sort_name_col="LSF";
+ASC.browser="chrome";
+ASC.gsechash="00000000";
+ASC.firstDayOfWeek=1;
+ASC.rtl=function(ltr, rtl){return ltr;};ASC.timezone_isWeekend_day=function(d) {switch(d){case 0:return true;case 6:return true;}return false;};ASC.timezone_firstDayOfWeek=function(){return 1;};		</script>		
+					<script type="text/javascript" src="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/bundle_main.min.js.stiahnuť"></script>
+					<script type="text/javascript">
+				$j.holdReady(true);
+				ASC.requireAsync('/asc/edurequest.js').then(function(){$j.holdReady(false)});
+			</script>
+									
+			</head>		
+			<body id="docbody" class="   " data-isloginskin="0" data-m="login"><div class="eu-cookie-panel" style="white-space:pre-wrap">EduPage nepoužíva žiadne reklamné, analytické alebo iné súkromie ohrozujúce cookies. Žiadne cookies sa nezdieľajú s tretími stranami.
+
+EduPage používa iba 2 cookie – jedno nevyhnutné pre fungovanie prihlasovania. Toto je dočasné, po zatvorení prehliadača sa odstráni.
+
+Druhé cookie zvyšuje bezpečnosť prihlásenia - vďaka nemu EduPage vie identifikovať prihlásenie z neznámeho počítača.<div style="text-align: right;margin-top: 10px;"><a class="flat-button flat-button-greend eu-cookie-closeBtn" tabindex="0" role="button">Ok</a></div></div>
+			<div class="topDiv"><div class="edubarMainSkin"><div class="skgd composite sgmain" data-sgid="skin_main" id="skin_main" data-templateid="skin" data-randid="skin_main-25780">			<ul class="skip-links">
+									<li><a href="https://spse-po.edupage.org/login/#skin_FixedHeader_2">Horné menu</a></li>
+													<li><a href="https://spse-po.edupage.org/login/#skin_PageContent_2">Obsah</a></li>
+													<li><a href="https://spse-po.edupage.org/login/#skin_Login_2">Prihlásenie</a></li>
+													<li><a href="https://spse-po.edupage.org/login/#skin_LegalInfo_2">Päta</a></li>
+						
+			</ul>
+			<div class="skgd composite" data-sgid="skin_Div_2" id="skin_Div_2"><ul class="skgd composite" data-sgid="skin_BoxV_3" id="skin_BoxV_3"><li class="compositeInner"><div class="skgd composite skgdContainer" data-sgid="skin_Container_7" id="skin_Container_7"><section class="skgd composite skgdSection visualEdit inlineEditable sgsp" data-sgid="skin_Section_7" id="skin_Section_7"><a class="skgd composite ihoverable" data-sgid="skin_Link_7" id="skin_Link_7" href="https://spse-po.edupage.org/"><ul class="skgd composite fbox responsive" data-sgid="skin_BoxF_3" id="skin_BoxF_3"><li style="flex:auto 0 0;" class="compositeInner"><img class="skgd skgdLogoImg" data-sgid="skin_Logo_3" id="skin_Logo_3" src="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/logospse150.jpg" alt="Úvodná stránka" onerror="this.style.display='none'"></li><li style="flex:auto 1 1;" class="compositeInner"><span class="skgd skgdLogoText" data-sgid="skin_LogoText_3" id="skin_LogoText_3"><span style="font-size:97%;line-height: 120%;display:inline-block;">Stredná priemyselná škola elektrotechnická, Plzenská 1, Prešov</span></span></li></ul></a><div class="skgd composite" data-sgid="skin_Div_3" id="skin_Div_3"><ul class="skgd composite fbox responsive" data-sgid="skin_BoxF_4" id="skin_BoxF_4"><li style="flex:auto 1 1;" class="compositeInner"><div class="skgd composite" data-sgid="skin_Div_5" id="skin_Div_5"><div class="skgd skgdSearchbox" data-sgid="skin_Searchbox_2" id="skin_Searchbox_2">		<form action="https://spse-po.edupage.org/search/" method="get">
+			<input type="text" name="q" value="" class="skgdSearchInput" placeholder="text na vyhľadanie" title="text na vyhľadanie" aria-label="text na vyhľadanie"><button type="submit" class="skgdSearchButton" title="Hľadať"><i class="fa fa-fw fa-search" aria-label="Hľadať"></i></button>
+				<input type="hidden" name="cx" value="007363575946410195037:6gnn9e1l7ae">
+    <input type="hidden" name="cof" value="FORID:11">
+    		</form>
+		</div><div class="skgd composite" data-sgid="skin_Div_6" id="skin_Div_6"><div class="skgd skgdLangChooser" data-sgid="skin_LangChooser_2" id="skin_LangChooser_2">				<div class="skgdMainFontSizes">
+					<a class="skgdChangeFontSize" data-change="1" title="Zväčšiť veľkosť písma" tabindex="0" role="button"><i class="fa  fa-font" aria-label="Zväčšiť veľkosť písma"></i>+</a>
+					<a class="skgdChangeFontSize" data-change="-1" title="Zmenšiť veľkosť písma" tabindex="0" role="button"><i class="fa  fa-font" aria-label="Zmenšiť veľkosť písma"></i>-</a>
+
+					<a class="skgdChangeFontSize" data-change="contrast" title="Vysoký kontrast" tabindex="0" role="button"><i class="fa fa-adjust" aria-label="Vysoký kontrast"></i></a>
+				</div>
+						
+			<a title="Výber jazyka: Slovenčina (Slovak)" aria-label="Výber jazyka: Slovenčina (Slovak)" class="selectedLang langChooserMenuBtn" role="button" tabindex="0" data-langs="[{&quot;id&quot;:&quot;sk&quot;,&quot;name&quot;:&quot;Sloven\u010dina (Slovak)&quot;,&quot;lang&quot;:&quot;sk&quot;,&quot;icon&quot;:&quot;\/langs\/pics\/sk.gif?v=3&quot;,&quot;url&quot;:&quot;\/?lang=sk&quot;},{&quot;id&quot;:&quot;en&quot;,&quot;name&quot;:&quot;English&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;icon&quot;:&quot;\/langs\/pics\/en.gif?v=3&quot;,&quot;url&quot;:&quot;\/?lang=en&quot;},{&quot;id&quot;:&quot;de&quot;,&quot;name&quot;:&quot;Deutsch&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;icon&quot;:&quot;\/langs\/pics\/de.gif?v=3&quot;,&quot;url&quot;:&quot;\/?lang=de&quot;},{&quot;id&quot;:&quot;es&quot;,&quot;name&quot;:&quot;Spanish&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;icon&quot;:&quot;\/langs\/pics\/es.gif?v=3&quot;,&quot;url&quot;:&quot;\/?lang=es&quot;}]">
+				<span style="background: url('//static.edupage.org/langs/pics/flags.png?v=6c76f3') -112px -110px no-repeat;">
+				</span>
+				
+			</a>
+			</div><a class="skgd composite ihoverable skgdv2loginlnk" data-sgid="skin_Link_8" id="skin_Link_8" href="https://spse-po.edupage.org/login/">Prihlásenie</a></div></div></li></ul></div></section></div><a class="skgdSideMenuOpenBtn" aria-label="Zobraziť menu" title="Zobraziť menu" tabindex="0" role="button"><i class="fa fa-bars fa-fw" aria-hidden="true"></i></a></li></ul><ul class="skgd composite" data-sgid="skin_BoxV_7" id="skin_BoxV_7"><li class="compositeInner"><header class="skgd composite skgdFixedHeader fixedRight" data-sgid="skin_FixedHeader_2" id="skin_FixedHeader_2" style="left: 0px; right: 0px;"><div class="skgd composite skgdContainer" data-sgid="skin_Container_8" id="skin_Container_8"><section class="skgd composite skgdSection visualEdit inlineEditable sgsp" data-sgid="skin_Section_8" id="skin_Section_8"><a class="skgd composite ihoverable" data-sgid="skin_Link_9" id="skin_Link_9" href="https://spse-po.edupage.org/"><img class="skgd skgdLogoImg" data-sgid="skin_Logo_4" id="skin_Logo_4" src="./Prihlásenie _ Stredná priemyselná škola elektrotechnická_files/logospse150.jpg" alt="Úvodná stránka" onerror="this.style.display='none'"><div class="skgd composite" data-sgid="skin_Div_8" id="skin_Div_8"><span class="skgd skgdLogoText" data-sgid="skin_LogoText_4" id="skin_LogoText_4"><span style="font-size:97%;line-height: 120%;display:inline-block;">Stredná priemyselná škola elektrotechnická, Plzenská 1, Prešov</span></span></div></a><nav class="skgd menub horizontal side-menu-left" data-sgid="skin_MenuB_2" id="skin_MenuB_2"><div class="skgdMiniMenu"><ul class="level0"><li class="skgdMenuItem skgdTopMenuItem skgdMiniMenuItem"><a class="skgdMenuItemLink skgdMiniMenuLink" aria-label="Zobraziť menu" role="button" title="Zobraziť menu" tabindex="0"><i class="fa fa-bars fa-fw" aria-hidden="true"></i></a></li></ul></div><ul class="level0 skgdFullMenu"><li class="skgdMenuItem skgdTopMenuItem"><a class="skgdMenuItemLink" tabindex="0" role="button" href="https://spse-po.edupage.org/substitution/">Suplovanie</a></li><li class="skgdMenuItem skgdTopMenuItem"><a class="skgdMenuItemLink" tabindex="0" role="button" href="https://spse-po.edupage.org/znamky/">Známky</a></li><li class="skgdMenuItem skgdTopMenuItem"><a class="skgdMenuItemLink" tabindex="0" role="button" href="https://spse-po.edupage.org/teachers/">Učitelia</a></li><li class="skgdMenuItem skgdTopMenuItem"><a class="skgdMenuItemLink" tabindex="0" role="button" href="https://spse-po.edupage.org/timetable/">Rozvrh</a></li><li class="skgdMenuItem skgdTopMenuItem"><a class="skgdMenuItemLink" tabindex="0" role="button" href="https://spse-po.edupage.org/maturita/">Maturita</a></li><li class="skgdMenuItem skgdTopMenuItem"><a class="skgdMenuItemLink" tabindex="0" role="button" href="https://spse-po.edupage.org/album/">Fotoalbum</a></li><li class="skgdMenuItem skgdTopMenuItem"><a class="skgdMenuItemLink" tabindex="0" role="button" href="https://spse-po.edupage.org/contact/">Kontakt</a></li></ul>		<script type="text/javascript">
+			$j('#skin_MenuB_2').responsiveMenuSkinGadget({"editable":false});
+		</script></nav></section></div></header><div class="skgdFixedHeaderReplacement" style="height: 50px;"></div></li></ul></div><div class="skgd composite" data-sgid="skin_Div_10" id="skin_Div_10"><section class="skgd composite skgdSection visualEdit inlineEditable sgsp" data-sgid="skin_Section_9" id="skin_Section_9"><header class="skgd composite skgdModHeader" data-sgid="skin_ModuleHeader_2" id="skin_ModuleHeader_2"><div class="skgd composite imageSkgd imageDivSkgd skgdImageDivTranslucent" data-sgid="skin_ImageDiv_2" id="skin_ImageDiv_2"><div class="skgd composite skgdContainer" data-sgid="skin_Container_9" id="skin_Container_9"><h1 class="skgd" data-sgid="skin_ModuleHeading_2" id="skin_ModuleHeading_2">Prihlásenie</h1><ul class="skgd composite skgdList responsive skgdBreadcrumb" data-sgid="skin_Breadcrumb_2" id="skin_Breadcrumb_2"><li class="skgd skgdli-skin_ListItem_6-skin_ListItem_6 composite skgdLi" data-sgid="skin_ListItem_6-88b3725cb8a379757bf303f2ab477f0fa56905b8" id="skin_ListItem_6-88b3725cb8a379757bf303f2ab477f0fa56905b8" data-listitemid="home0"><a class="skgd skgdli-skin_ListItem_6-skin_Link_10 composite ihoverable" data-sgid="skin_Link_10-88b3725cb8a379757bf303f2ab477f0fa56905b8" id="skin_Link_10-88b3725cb8a379757bf303f2ab477f0fa56905b8" href="https://spse-po.edupage.org/?">Hlavná stránka</a></li><li class="skgd skgdli-skin_ListItem_7-skin_ListItem_7 composite skgdLi" data-sgid="skin_ListItem_7-3024fe36afc91d25f1db4032577e9de276614c62" id="skin_ListItem_7-3024fe36afc91d25f1db4032577e9de276614c62" data-listitemid="sep1"><div class="skgd skgdli-skin_ListItem_7-skin_Text_3" data-sgid="skin_Text_3-3024fe36afc91d25f1db4032577e9de276614c62" id="skin_Text_3-3024fe36afc91d25f1db4032577e9de276614c62">/</div></li><li class="skgd skgdli-skin_ListItem_6-skin_ListItem_6 composite skgdLi itemSelected" data-sgid="skin_ListItem_6-d4b90f2dfafc736205a98bf3ae6541431bc77d8e" id="skin_ListItem_6-d4b90f2dfafc736205a98bf3ae6541431bc77d8e" data-listitemid="login1"><a class="skgd skgdli-skin_ListItem_6-skin_Link_10 composite ihoverable skgdv2loginlnk" data-sgid="skin_Link_10-d4b90f2dfafc736205a98bf3ae6541431bc77d8e" id="skin_Link_10-d4b90f2dfafc736205a98bf3ae6541431bc77d8e" href="https://spse-po.edupage.org/login/">Prihlásenie</a></li></ul></div></div></header></section><div class="skgd composite skgdContainer" data-sgid="skin_Container_10" id="skin_Container_10"><div class="skgd" data-sgid="skin_PageContent_2" id="skin_PageContent_2"><main class="skgd composite sgmain maing" data-sgid="login_main" id="login_main" data-templateid="login" data-randid="login_main-5236"><h1 class="skgdMainHeading">Prihlásenie</h1><section class="skgd composite skgdSubpageContent" data-sgid="login_SubpageContent_1" id="login_SubpageContent_1"><ul class="skgd composite sgbox sgsp skgdSectionGroup responsive skgdListF skgdGroupF" data-sgid="login_SectionGroup_1" id="login_SectionGroup_1"><li class="compositeInner skgdListLi" style=""><section class="skgd composite skgdSection visualEdit inlineEditable sgsp" data-sgid="login_Section_1" id="login_Section_1"><div class="skgd composite skgdSkb skb_skin0" data-sgid="login_StyledBox_1" id="login_StyledBox_1"><h2 class="skgd inlineEditable" data-sgid="login_Heading_1" id="login_Heading_1">Prihlásenie</h2><div class="skgd skgdLogin horizontalForm" data-sgid="login_Login_1" id="login_Login_1">
+<div id="login_Login_1cnt" class="skgdLoginContainer">
+
+	<a class=" skgdSsoLoginBtn overlayLogin skgdSsoLoginBtnV2" data-type="qr" href="https://spse-po.edupage.org/login/?cmd=MainLogin&amp;cl=1" style="background-color: #2490d0;">				
+		<span>
+			Prihlásiť sa cez EduPage účet		</span>
+	</a>
+	<div style="margin: 12px 0 16px 0;">
+		<a class="lostPasswordBtn2" style="cursor:pointer" tabindex="0" role="button">Neviem prihlasovacie meno alebo heslo</a>
+	</div>
+	<div style="display: flex; flex-flow: row wrap;justify-content: center;gap: 6px;">
+			</div>
+
+	
+</div>
+
+
+<script type="text/javascript">
+$j(document).ready(function() {
+	var elem = $j('#login_Login_1cnt');
+
+	function handleWrongHost() {
+		if (!/^https:\/\/[^.]+\.edupage\.org\//.test(window.location.href)) {
+			var edupage = $('html').attr('data-edupage');
+			if (edupage) {
+				window.location.href = 'https://'+(edupage || '').toLowerCase().replace(/[^a-z0-9-]/g, '')+'.edupage.org/login/?dl=a';
+				return true;
+			}			
+		}
+		return false;
+	}
+
+	
+	elem.find('.ssoLoginBtn').on('click',function() {
+		if ($(this).attr('data-id') == 'ilsso') {
+			var s= '';
+			s += '<form action="https://sso.195.co.il/" method="post">';
+				s += '<input type="hidden" name="redirUrl" value="'+et('https://spse-po.edupage.org/login/ssoLogin.php')+'">';				
+			s += '</form>';
+			$(s).appendTo('body').submit();
+		} else{
+			window.location = barEncLink('/login/?cmd=oauthLogin&a='+($(this).attr('data-a')||""));			
+		}
+	}).on('keypress', function(e) {
+		if (e.which == 13) {
+			$(this).click();
+		}
+	});
+	
+
+	elem.find('.overlayLogin').on('click',function(e) {		
+		e.preventDefault();
+		if (handleWrongHost()) return;
+		
+		var dlg = barNewDialog({
+			source: $(this).attr('href'),
+			dialogData: {
+				tu: "",
+				gu: "",
+				au: "",
+			},
+			closeOnBack: true,
+			dialogClass: 'whiteDialog noPadding fullScreenDialog fullScreenDialogEx fixedPos transparentDialog'
+		});
+	});
+
+	elem.find('.lostPasswordBtn2').on('click',function() {			
+		if (handleWrongHost()) return;
+		
+		barNewDialog({
+				'source': '/portal/?cmd=LostPassword',
+				'title': ls(1589)
+			});
+		}).on('keypress', function(e) {
+			if (e.which == 13) {
+				$(this).click();
+			}
+		});
+
+	
+
+});
+</script><script type="text/javascript">
+
+$j(document).ready(function($) {		
+	var elem = $('#login_Login_1');		
+	elem.find('.lostPasswordBtn').on('click',function() {
+			
+		barNewDialog({
+			'source': '/portal/?cmd=LostPassword',
+			'title': ls(1589)
+		});
+	}).on('keypress', function(e) {
+		if (e.which == 13) {
+			$(this).click();
+		}
+	});
+	
+		
+		elem.find('.ssoLoginBtn').on('click',function() {
+			window.location = barEncLink('/login/?cmd=oauthLogin&a='+($(this).attr('data-a')||""));			
+		}).on('keypress', function(e) {
+			if (e.which == 13) {
+				$(this).click();
+			}
+		});
+	});
+</script></div></div></section></li></ul></section></main>		<script type="text/javascript">			
+			$j(document).ready(function($) {
+				var accepted = localStorage.getItem('euCookieAccepted') || sessionStorage.getItem('euCookieAccepted');
+				if (!accepted) {
+					var s = '';
+					s += '<div class="eu-cookie-panel" style="white-space:pre-wrap">';
+						s += ls(7818);
+						s += '<div style="text-align: right;margin-top: 10px;">';						
+							s += '<a class="flat-button flat-button-greend eu-cookie-closeBtn" tabindex="0" role="button">'+lset(1573)+'</a>';
+						s += '</div>';
+					s += '</div>';
+					var elem = $(s).prependTo($('body'));
+					
+					elem.find('.eu-cookie-closeBtn').click(function() {
+						localStorage.setItem('euCookieAccepted','1');
+						sessionStorage.setItem('euCookieAccepted','1');
+						elem.fadeOut('fast',function() {
+							elem.remove();
+						});
+					}).on('keypress', function(e) {
+						if (e.which == 13) {
+							$(this).click();
+							return false;
+						}
+					})
+				}
+				
+			});
+		</script>
+		</div></div></div><div class="skgd composite" data-sgid="skin_Div_11" id="skin_Div_11"><div class="skgd composite skgdContainer" data-sgid="skin_Container_11" id="skin_Container_11"><ul class="skgd composite sgbox sgsp skgdSectionGroup skgdListH skgdListHGap skgdListCols3 responsive" data-sgid="skin_SectionGroup_2" id="skin_SectionGroup_2"><li class="compositeInner skgdListLi" style="padding-right:1em;padding-bottom:1em;"><section class="skgd composite skgdSection visualEdit inlineEditable sgsp" data-sgid="skin_Section_10" id="skin_Section_10"><ul class="skgd composite" data-sgid="skin_BoxV_8" id="skin_BoxV_8"><li class="compositeInner"><h2 class="skgd inlineEditable" data-sgid="skin_Heading_4" id="skin_Heading_4">Odkazy</h2></li><li class="compositeInner"><ul class="skgd composite skgdList responsive skgd-fa-ul" data-sgid="skin_LegalInfo_2" id="skin_LegalInfo_2"><li class="skgd skgdli-skin_ListItem_8-skin_ListItem_8 composite skgdLi skgd-fa-li fa-envelope" data-sgid="skin_ListItem_8-b6589fc6ab0dc82cf12099d1c2d40ab994e8410c" id="skin_ListItem_8-b6589fc6ab0dc82cf12099d1c2d40ab994e8410c" data-listitemid="0"><a class="skgd skgdli-skin_ListItem_8-skin_Link_11 composite ihoverable" data-sgid="skin_Link_11-b6589fc6ab0dc82cf12099d1c2d40ab994e8410c" id="skin_Link_11-b6589fc6ab0dc82cf12099d1c2d40ab994e8410c" href="mailto:spse@spse-po.sk" title="Správca obsahu">Správca obsahu</a></li><li class="skgd skgdli-skin_ListItem_8-skin_ListItem_8 composite skgdLi skgd-fa-li fa-envelope" data-sgid="skin_ListItem_8-356a192b7913b04c54574d18c28d46e6395428ab" id="skin_ListItem_8-356a192b7913b04c54574d18c28d46e6395428ab" data-listitemid="1"><a class="skgd skgdli-skin_ListItem_8-skin_Link_11 composite ihoverable" data-sgid="skin_Link_11-356a192b7913b04c54574d18c28d46e6395428ab" id="skin_Link_11-356a192b7913b04c54574d18c28d46e6395428ab" href="mailto:spse@spse-po.sk" title="Technická podpora">Technická podpora</a></li><li class="skgd skgdli-skin_ListItem_8-skin_ListItem_8 composite skgdLi skgd-fa-li fa-wheelchair" data-sgid="skin_ListItem_8-da4b9237bacccdf19c0760cab7aec4a8359010b0" id="skin_ListItem_8-da4b9237bacccdf19c0760cab7aec4a8359010b0" data-listitemid="2"><a class="skgd skgdli-skin_ListItem_8-skin_Link_11 composite ihoverable" data-sgid="skin_Link_11-da4b9237bacccdf19c0760cab7aec4a8359010b0" id="skin_Link_11-da4b9237bacccdf19c0760cab7aec4a8359010b0" href="https://spse-po.edupage.org/privacy/?eqa=cHJpc3R1cG5vc3Q9MQ%3D%3D" title="Vyhlásenie o prístupnosti">Vyhlásenie o prístupnosti</a></li><li class="skgd skgdli-skin_ListItem_8-skin_ListItem_8 composite skgdLi skgd-fa-li fa-legal" data-sgid="skin_ListItem_8-77de68daecd823babbb58edb1c8e14d7106e83bb" id="skin_ListItem_8-77de68daecd823babbb58edb1c8e14d7106e83bb" data-listitemid="3"><a class="skgd skgdli-skin_ListItem_8-skin_Link_11 composite ihoverable" data-sgid="skin_Link_11-77de68daecd823babbb58edb1c8e14d7106e83bb" id="skin_Link_11-77de68daecd823babbb58edb1c8e14d7106e83bb" href="https://spse-po.edupage.org/privacy/?eqa=cHJhdm5laW5mb3JtYWNpZT0x" title="Právne informácie">Právne informácie</a></li><li class="skgd skgdli-skin_ListItem_8-skin_ListItem_8 composite skgdLi skgd-fa-li fa-unlock" data-sgid="skin_ListItem_8-1b6453892473a467d07372d45eb05abc2031647a" id="skin_ListItem_8-1b6453892473a467d07372d45eb05abc2031647a" data-listitemid="4"><a class="skgd skgdli-skin_ListItem_8-skin_Link_11 composite ihoverable" data-sgid="skin_Link_11-1b6453892473a467d07372d45eb05abc2031647a" id="skin_Link_11-1b6453892473a467d07372d45eb05abc2031647a" href="https://spse-po.edupage.org/privacy/" title="Zásady ochrany osobných údajov">Zásady ochrany osobných údajov</a></li><li class="skgd skgdli-skin_ListItem_8-skin_ListItem_8 composite skgdLi skgd-fa-li fa-legal" data-sgid="skin_ListItem_8-ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4" id="skin_ListItem_8-ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4" data-listitemid="5"><a class="skgd skgdli-skin_ListItem_8-skin_Link_11 composite ihoverable" data-sgid="skin_Link_11-ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4" id="skin_Link_11-ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4" href="https://spse-po.edupage.org/privacy/?eqa=ZXBzbT1pbXByZXN1bQ%3D%3D" title="Údaje o prevádzkovateľovi">Údaje o prevádzkovateľovi</a></li><li class="skgd skgdli-skin_ListItem_8-skin_ListItem_8 composite skgdLi skgd-fa-li fa-sitemap" data-sgid="skin_ListItem_8-c1dfd96eea8cc2b62785275bca38ac261256e278" id="skin_ListItem_8-c1dfd96eea8cc2b62785275bca38ac261256e278" data-listitemid="6"><a class="skgd skgdli-skin_ListItem_8-skin_Link_11 composite ihoverable" data-sgid="skin_Link_11-c1dfd96eea8cc2b62785275bca38ac261256e278" id="skin_Link_11-c1dfd96eea8cc2b62785275bca38ac261256e278" href="https://spse-po.edupage.org/sitemap/" title="Mapa stránok">Mapa stránok</a></li></ul></li><li class="compositeInner"><ul class="skgd composite skgdList responsive skgd-fa-ul" data-sgid="skin_Links_2" id="skin_Links_2"><li class="skgd skgdli-skin_ListItem_9-skin_ListItem_9 composite skgdLi skgd-fa-li fa-caret-right" data-sgid="skin_ListItem_9-b6589fc6ab0dc82cf12099d1c2d40ab994e8410c" id="skin_ListItem_9-b6589fc6ab0dc82cf12099d1c2d40ab994e8410c" data-listitemid="0"><a class="skgd skgdli-skin_ListItem_9-skin_Link_12 composite ihoverable" data-sgid="skin_Link_12-b6589fc6ab0dc82cf12099d1c2d40ab994e8410c" id="skin_Link_12-b6589fc6ab0dc82cf12099d1c2d40ab994e8410c" href="https://spse-po.edupage.org/about/" title="{#6947}">O nás</a></li><li class="skgd skgdli-skin_ListItem_9-skin_ListItem_9 composite skgdLi skgd-fa-li fa-caret-right" data-sgid="skin_ListItem_9-356a192b7913b04c54574d18c28d46e6395428ab" id="skin_ListItem_9-356a192b7913b04c54574d18c28d46e6395428ab" data-listitemid="1"><a class="skgd skgdli-skin_ListItem_9-skin_Link_12 composite ihoverable" data-sgid="skin_Link_12-356a192b7913b04c54574d18c28d46e6395428ab" id="skin_Link_12-356a192b7913b04c54574d18c28d46e6395428ab" href="https://spse-po.edupage.org/contact/" title="{#1082}">Kontakt</a></li><li class="skgd skgdli-skin_ListItem_9-skin_ListItem_9 composite skgdLi skgd-fa-li fa-caret-right" data-sgid="skin_ListItem_9-da4b9237bacccdf19c0760cab7aec4a8359010b0" id="skin_ListItem_9-da4b9237bacccdf19c0760cab7aec4a8359010b0" data-listitemid="2"><a class="skgd skgdli-skin_ListItem_9-skin_Link_12 composite ihoverable" data-sgid="skin_Link_12-da4b9237bacccdf19c0760cab7aec4a8359010b0" id="skin_Link_12-da4b9237bacccdf19c0760cab7aec4a8359010b0" href="https://spse-po.edupage.org/news/" title="{#1014}">Novinky</a></li></ul></li></ul></section></li><li class="compositeInner skgdListLi" style="padding-right:1em;padding-bottom:1em;"><section class="skgd composite skgdSection visualEdit inlineEditable sgsp" data-sgid="skin_Section_11" id="skin_Section_11"><ul class="skgd composite" data-sgid="skin_BoxV_9" id="skin_BoxV_9"><li class="compositeInner"><h2 class="skgd inlineEditable" data-sgid="skin_Heading_5" id="skin_Heading_5">Kontakty</h2></li><li class="compositeInner"><ul class="skgd composite skgdList responsive skgd-fa-ul contact" data-sgid="skin_Contact_2" id="skin_Contact_2"><li class="skgd skgdli-skin_ListItem_10-skin_ListItem_10 composite skgdLi skgd-fa-li fa-building" data-sgid="skin_ListItem_10-73c2a2b94ffa6b0fabf50b64743576d836169779" id="skin_ListItem_10-73c2a2b94ffa6b0fabf50b64743576d836169779" data-listitemid="school_name"><div class="skgd skgdli-skin_ListItem_10-skin_Text_4" data-sgid="skin_Text_4-73c2a2b94ffa6b0fabf50b64743576d836169779" id="skin_Text_4-73c2a2b94ffa6b0fabf50b64743576d836169779">Stredná priemyselná škola elektrotechnická</div></li><li class="skgd skgdli-skin_ListItem_10-skin_ListItem_10 composite skgdLi skgd-fa-li fa-envelope" data-sgid="skin_ListItem_10-51e79300bff25fea298af62c43db95eabe2d34a8" id="skin_ListItem_10-51e79300bff25fea298af62c43db95eabe2d34a8" data-listitemid="school_email"><div class="skgd skgdli-skin_ListItem_10-skin_Text_4" data-sgid="skin_Text_4-51e79300bff25fea298af62c43db95eabe2d34a8" id="skin_Text_4-51e79300bff25fea298af62c43db95eabe2d34a8"><a href="mailto:spse@spse-po.sk">spse@spse-po.sk</a></div></li><li class="skgd skgdli-skin_ListItem_10-skin_ListItem_10 composite skgdLi skgd-fa-li fa-phone" data-sgid="skin_ListItem_10-634c8c14f16a81bd83b46b6663c377ace29b6768" id="skin_ListItem_10-634c8c14f16a81bd83b46b6663c377ace29b6768" data-listitemid="school_phone"><div class="skgd skgdli-skin_ListItem_10-skin_Text_4" data-sgid="skin_Text_4-634c8c14f16a81bd83b46b6663c377ace29b6768" id="skin_Text_4-634c8c14f16a81bd83b46b6663c377ace29b6768">+421 51 7725567</div></li><li class="skgd skgdli-skin_ListItem_10-skin_ListItem_10 composite skgdLi skgd-fa-li fa-map-marker" data-sgid="skin_ListItem_10-cc3ccf6ce5e38d3ac967b813ac6598b068d11219" id="skin_ListItem_10-cc3ccf6ce5e38d3ac967b813ac6598b068d11219" data-listitemid="school_address"><div class="skgd skgdli-skin_ListItem_10-skin_Text_4" data-sgid="skin_Text_4-cc3ccf6ce5e38d3ac967b813ac6598b068d11219" id="skin_Text_4-cc3ccf6ce5e38d3ac967b813ac6598b068d11219">Plzenská 1<br>
+080 01 Prešov<br>
+Slovakia</div></li><li class="skgd skgdli-skin_ListItem_10-skin_ListItem_10 composite skgdLi skgd-fa-li fa-phone" data-sgid="skin_ListItem_10-169239e762914ff5cd5b2a77fe9029fe7ec2c18e" id="skin_ListItem_10-169239e762914ff5cd5b2a77fe9029fe7ec2c18e" data-listitemid="ico"><div class="skgd skgdli-skin_ListItem_10-skin_Text_4" data-sgid="skin_Text_4-169239e762914ff5cd5b2a77fe9029fe7ec2c18e" id="skin_Text_4-169239e762914ff5cd5b2a77fe9029fe7ec2c18e">00161829</div></li></ul></li></ul></section></li><li class="compositeInner skgdListLi" style="padding-right:1em;padding-bottom:1em;"><section class="skgd composite skgdSection visualEdit inlineEditable sgsp" data-sgid="skin_Section_12" id="skin_Section_12"><ul class="skgd composite" data-sgid="skin_BoxV_10" id="skin_BoxV_10"><li class="compositeInner"><h2 class="skgd inlineEditable" data-sgid="skin_Heading_6" id="skin_Heading_6">Prihlásenie</h2></li><li class="compositeInner"><div class="skgd skgdLogin verticalForm" data-sgid="skin_Login_2" id="skin_Login_2">
+<div id="skin_Login_2cnt" class="skgdLoginContainer">
+
+	<a class=" skgdSsoLoginBtn overlayLogin skgdSsoLoginBtnV2" data-type="qr" href="https://spse-po.edupage.org/login/?cmd=MainLogin&amp;cl=1" style="background-color: #2490d0;">				
+		<span>
+			Prihlásiť sa cez EduPage účet		</span>
+	</a>
+	<div style="margin: 12px 0 16px 0;">
+		<a class="lostPasswordBtn2" style="cursor:pointer" tabindex="0" role="button">Neviem prihlasovacie meno alebo heslo</a>
+	</div>
+	<div style="display: flex; flex-flow: row wrap;justify-content: center;gap: 6px;">
+			</div>
+
+	
+</div>
+
+
+<script type="text/javascript">
+$j(document).ready(function() {
+	var elem = $j('#skin_Login_2cnt');
+
+	function handleWrongHost() {
+		if (!/^https:\/\/[^.]+\.edupage\.org\//.test(window.location.href)) {
+			var edupage = $('html').attr('data-edupage');
+			if (edupage) {
+				window.location.href = 'https://'+(edupage || '').toLowerCase().replace(/[^a-z0-9-]/g, '')+'.edupage.org/login/?dl=a';
+				return true;
+			}			
+		}
+		return false;
+	}
+
+	
+	elem.find('.ssoLoginBtn').on('click',function() {
+		if ($(this).attr('data-id') == 'ilsso') {
+			var s= '';
+			s += '<form action="https://sso.195.co.il/" method="post">';
+				s += '<input type="hidden" name="redirUrl" value="'+et('https://spse-po.edupage.org/login/ssoLogin.php')+'">';				
+			s += '</form>';
+			$(s).appendTo('body').submit();
+		} else{
+			window.location = barEncLink('/login/?cmd=oauthLogin&a='+($(this).attr('data-a')||""));			
+		}
+	}).on('keypress', function(e) {
+		if (e.which == 13) {
+			$(this).click();
+		}
+	});
+	
+
+	elem.find('.overlayLogin').on('click',function(e) {		
+		e.preventDefault();
+		if (handleWrongHost()) return;
+		
+		var dlg = barNewDialog({
+			source: $(this).attr('href'),
+			dialogData: {
+				tu: "",
+				gu: "",
+				au: "",
+			},
+			closeOnBack: true,
+			dialogClass: 'whiteDialog noPadding fullScreenDialog fullScreenDialogEx fixedPos transparentDialog'
+		});
+	});
+
+	elem.find('.lostPasswordBtn2').on('click',function() {			
+		if (handleWrongHost()) return;
+		
+		barNewDialog({
+				'source': '/portal/?cmd=LostPassword',
+				'title': ls(1589)
+			});
+		}).on('keypress', function(e) {
+			if (e.which == 13) {
+				$(this).click();
+			}
+		});
+
+	
+
+});
+</script><script type="text/javascript">
+
+$j(document).ready(function($) {		
+	var elem = $('#skin_Login_2');		
+	elem.find('.lostPasswordBtn').on('click',function() {
+			
+		barNewDialog({
+			'source': '/portal/?cmd=LostPassword',
+			'title': ls(1589)
+		});
+	}).on('keypress', function(e) {
+		if (e.which == 13) {
+			$(this).click();
+		}
+	});
+	
+		
+		elem.find('.ssoLoginBtn').on('click',function() {
+			window.location = barEncLink('/login/?cmd=oauthLogin&a='+($(this).attr('data-a')||""));			
+		}).on('keypress', function(e) {
+			if (e.which == 13) {
+				$(this).click();
+			}
+		});
+	});
+</script></div></li></ul></section></li></ul></div></div><div class="skgd composite" data-sgid="skin_Div_12" id="skin_Div_12"><div class="skgd composite skgdContainer" data-sgid="skin_Container_12" id="skin_Container_12"><ul class="skgd composite hbox static valign-top" data-sgid="skin_BoxH_2" id="skin_BoxH_2"><li style="width:50.00%;" class="compositeInner"><div class="skgd" data-sgid="skin_BlindFriendly_2" id="skin_BlindFriendly_2"><a href="https://spse-po.edupage.org/login/?blindFriendly=1" style="color:inherit">
+			<i class="fa fa-blind" aria-hidden="true"></i> 
+							Bezbariérová verzia					</a>
+		
+		<a class="skgdChangeFontSize" data-change="1" title="Zväčšiť veľkosť písma" tabindex="0" role="button" aria-label="Zväčšiť veľkosť písma"><i class="fa fa-fw fa-font" aria-hidden="true"></i>+</a>
+		<a class="skgdChangeFontSize" data-change="-1" title="Zmenšiť veľkosť písma" tabindex="0" role="button" aria-label="Zmenšiť veľkosť písma"><i class="fa fa-fw fa-font" aria-hidden="true"></i>-</a>
+		<a class="skgdChangeFontSize" data-change="contrast" title="Vysoký kontrast" tabindex="0" role="button" aria-label="Vysoký kontrast"><i class="fa fa-adjust"></i></a></div></li><li style="width:50.00%;" class="compositeInner"><div class="skgd plainText" data-sgid="skin_Html_2" id="skin_Html_2"><p>Powered by <a href="https://www.edupage.org/" target="_blank">aSc EduPage</a></p></div></li></ul></div></div></div></div></div>			
+			
+			
+			</body></html>
