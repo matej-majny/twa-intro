@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 100 8900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/global/pics/gfonts/Open_Sans/normal.woff2) format('woff2');  
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: italic;
+  font-weight: 100 900;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url(/global/pics/gfonts/Open_Sans/italic.woff2) format('woff2');  
+}
+
