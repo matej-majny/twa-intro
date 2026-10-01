@@ -1,1 +1,1 @@
-skusobne repo na twa, intro k gitu
+welcome to weby brother
